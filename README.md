@@ -1,6 +1,6 @@
 # to_do
 
-A new Flutter project.
+Simple To_Do App with Local Backend using HIVE
 
 ## Getting Started
 
